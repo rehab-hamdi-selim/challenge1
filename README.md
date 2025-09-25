@@ -17,8 +17,7 @@ The app uses `Dismissible` for deleting tasks, `ReorderableListView` for reorder
 ---  
   
 ## 📱 Demo Video    
-👉 [Watch the demo here] https://github.com/user-attachments/assets/8728b3fb-9786-4176-a69d-18ceace556d9
-*(replace `YOUR_VIDEO_LINK` with your actual video URL once you upload it)*    
+👉 [Watch the demo here] [https://github.com/user-attachments/assets/8728b3fb-9786-4176-a69d-18ceace556d9](https://github.com/user-attachments/assets/f0d3960a-7cdf-49c3-97ad-4579eabe9698)
   
 ---  
 
@@ -29,5 +28,9 @@ To run the app:
 ```bash
 flutter pub get
 flutter run
+
+
+
+
 
 
